@@ -6,7 +6,7 @@ This is a copy Codeigniter framework with an integrated features:
 - a modules system (HMVC)
 
 
-## Details about of the features
+## Details about the features
 
 I will not write about systems (features) here. Read about systems on own pages
 
